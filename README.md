@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>Hello am <b>Alex🤓</b>, nice to meet you😉</p>
+  <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p>
 </div>
 
 <!-- Contacts details -->
@@ -20,20 +18,15 @@
 
 <!-- Activity -->
 ### My Activity
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexgeeshau&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexgeeshau&bg_color=080707&color=ededed&line=00ff11&point=016a21&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgeeshau&show_icons=true&theme=radical) -->
+ 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeeshau&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexgeeshau&show_icons=true&theme=radical" />
+</a>
 
-<!--
-**alexgeeshau/alexgeeshau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![Top Langs Not compact](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeeshau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
