@@ -24,13 +24,13 @@
  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeeshau&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexgeeshau&show_icons=true&theme=radical" /> -->
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex-Gichau&show_icons=true&theme=radical" /> -->
   <img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=alexgeeshau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexgeeshau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-Gichau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-<!-- [![Top Langs Not compact](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeeshau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs Not compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
