@@ -14,10 +14,13 @@
   <a href="https://twitter.com/alexgeeshau">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
 </div>
 
 [![Geeshau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gichau)](https://github.com/Alex-Gichau/github-readme-stats)
+
+<br>
+Feel free to interact and contribute, based on your interests.
+<hr>
 
 <!-- Activity -->
 ### My Activity
