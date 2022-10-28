@@ -17,6 +17,9 @@
   
 </div>
 
+[![Geeshau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gichau)]
+(https://github.com/Alex-Gichau/github-readme-stats)
+
 <!-- Activity -->
 ### My Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alex-Gichau&bg_color=080707&color=ededed&line=00ff11&point=016a21&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
