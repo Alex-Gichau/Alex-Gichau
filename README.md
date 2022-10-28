@@ -16,7 +16,7 @@
   </a>
 </div>
 
-[![Geeshau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gichau)](https://github.com/Alex-Gichau/github-readme-stats)
+[![Geeshau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gichau&theme=radical)](https://github.com/Alex-Gichau/github-readme-stats)
 
 <br>
 Feel free to interact and contribute, based on your interests.
