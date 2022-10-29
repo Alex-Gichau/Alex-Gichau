@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200px"/>
   <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p>
 </div>
 
@@ -14,29 +14,32 @@
   <a href="https://twitter.com/alexgeeshau">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://instagram.com/geeshau">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+<br>
+
+<div id="badges" align="center">
+<p>Feel free to interact and contribute, based on your interests.</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-Gichau&theme=radical" alt="github-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Gichau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="contributions"/>
+<br>
 </div>
 
-[![Geeshau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gichau&theme=radical)](https://github.com/Alex-Gichau/github-readme-stats)
 
-<br>
-Feel free to interact and contribute, based on your interests.
-<hr>
-
-<!-- Activity -->
 ### My Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alex-Gichau&bg_color=080707&color=ededed&line=00ff11&point=016a21&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgeeshau&show_icons=true&theme=radical) -->
  
-<div id="graphs" align="center">
+<div id="graph" align="center">
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&layout=compact" />
 </a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex-Gichau&show_icons=true&theme=radical" /> -->
-  <img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=alexgeeshau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)" />
+  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=alexgeeshau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)" />
 </a>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-Gichau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <!-- [![Top Langs Not compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
