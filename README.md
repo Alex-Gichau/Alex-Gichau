@@ -20,6 +20,7 @@
 <a href="https://github.com/Alex-Gichau">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Alex-Gichau.Alex-Gichau&style=flat-square&color=0088cc">
 </a>
+
 </div>
 
 ## Tools I use on a day-to-day:
@@ -50,4 +51,4 @@
 </a>
 </div>
 
-<!-- [![Top Langs Not compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
