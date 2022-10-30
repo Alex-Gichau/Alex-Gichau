@@ -13,12 +13,14 @@
 </div>
 <hr>
 
+<div id="badges" align="center">
 <a href="https://github.com/Alex-Gichau">
 <img src="https://komarev.com/ghpvc/?username=Alex-Gichau&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"/>
 </a>
 <a href="https://github.com/Alex-Gichau">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Alex-Gichau.Alex-Gichau&style=flat-square&color=0088cc">
 </a>
+</div>
 
 ## Tools I use on a day-to-day:
 <p align="left">  
