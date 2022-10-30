@@ -6,20 +6,17 @@
 
 <!-- Contacts details -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alex-g-b15b14160/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://behance.net/mburugichau">
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-  <a href="https://twitter.com/alexgeeshau">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://instagram.com/geeshau">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+
+[![Gmail Badge](https://img.shields.io/badge/-gichaumburu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Gichau-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Alex-Gichau/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@geeshau-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/geeshau "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@alexgeeshau-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Alexl%20Gichau "Follow on Twitter")
 </div>
-<br> 
+<hr>
+<a href="https://github.com/Alex-Gichau">
+<img src="https://komarev.com/ghpvc/?username=Alex-Gichau&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"/>
+</a>
+
 
 ## Tools I use on a day-to-day:
 <p align="left">  
