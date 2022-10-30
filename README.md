@@ -3,7 +3,6 @@
   <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p>
 </div>
 
-
 <!-- Contacts details -->
 <div id="badges" align="center">
 
@@ -13,10 +12,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-@alexgeeshau-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Alexl%20Gichau "Follow on Twitter")
 </div>
 <hr>
+
 <a href="https://github.com/Alex-Gichau">
 <img src="https://komarev.com/ghpvc/?username=Alex-Gichau&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"/>
 </a>
-
+<a href="https://github.com/Alex-Gichau">
+<img src="https://visitor-badge.glitch.me/badge?page_id=Alex-Gichau.Alex-Gichau&style=flat-square&color=0088cc">
+</a>
 
 ## Tools I use on a day-to-day:
 <p align="left">  
