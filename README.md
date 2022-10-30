@@ -20,10 +20,12 @@
 <a href="https://github.com/Alex-Gichau">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Alex-Gichau.Alex-Gichau&style=flat-square&color=0088cc">
 </a>
+<p>Feel free to interact and contribute😁</p>
 
 </div>
 
 ## My tools
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -36,9 +38,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank">
+</div>
+<br>
 
 <div id="badges" align="center">
-<p>Feel free to interact and contribute, based on your interests.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=Alex-Gichau&theme=radical" alt="github-stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Gichau&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="contributions"/>
 <br>
