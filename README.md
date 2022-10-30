@@ -3,6 +3,7 @@
   <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p>
 </div>
 
+
 <!-- Contacts details -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alex-g-b15b14160/">
@@ -18,7 +19,13 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<br>
+<br> 
+
+## Tools I use on a day-to-day:
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=dark-gray&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
 
 <div id="badges" align="center">
 <p>Feel free to interact and contribute, based on your interests.</p>
