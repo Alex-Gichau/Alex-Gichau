@@ -75,5 +75,5 @@
 
 ### My Languages
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&layout=compact"/>
 </div>
