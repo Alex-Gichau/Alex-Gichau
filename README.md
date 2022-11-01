@@ -19,9 +19,15 @@
 </a>
 <a href="https://github.com/Alex-Gichau">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Alex-Gichau.Alex-Gichau&style=flat-square&color=0088cc">
-</a>
+</a></br>
 <a href="https://twitter.com/alexgeeshau">
 <img src="https://img.shields.io/twitter/follow/alexgeeshau?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter"/>
+</a>
+<a href="https://github.com/Alex-Gichau">
+<img src="https://img.shields.io/github/followers/Alex-Gichau?logo=GitHub&style=for-the-badge"/>
+</a>
+<a href="https://github.com/Alex-Gichau">
+<img src="https://img.shields.io/github/stars/Alex-Gichau?logo=github&style=for-the-badge"/>
 </a>
 
 <p>Feel free to interact and contribute😁</p>
