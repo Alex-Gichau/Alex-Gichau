@@ -1,7 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200px"/>
-  <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p>
+<h1>𝓑𝓮𝓵𝓲𝓮𝓿𝓮, 𝓒𝓸𝓭𝓮, 𝓑𝓮𝓬𝓸𝓶𝓮</h1>
+  <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p></div>
 </div>
+
+### Currently working on:
+* Institutional/Church Management System
+* Invoicing App w/ React
+* React Form to Google Sheets App
 
 <!-- Contacts details -->
 <div id="badges" align="center">
