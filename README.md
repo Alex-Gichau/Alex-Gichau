@@ -4,13 +4,17 @@
 </div>
 
 ### Currently working on:
-* Institutional/Church Management System
-* Invoicing App w/ React
-* React Form to Google Sheets App
+- [ ] Institutional/Church Management System: <br>
+- ⬜⬜⬜⬜🔳🔳🔳🔳🔳🔳🔳🔳
+- [ ] Invoicing App w/ React<br>
+- ⬜⬜⬜⬜⬜⬜⬜🔳🔳🔳🔳🔳
+- [X] React Form to Google Sheets App<br>
+- ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
 
 <!-- Contacts details -->
 <div id="badges" align="center">
-
+  
 [![Gmail Badge](https://img.shields.io/badge/-gichaumburu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Gichau-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Alex-Gichau/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@geeshau-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/geeshau "Contact on Telegram")
@@ -39,7 +43,7 @@
 
 </div>
 
-## My tools
+### My tools
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
