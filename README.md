@@ -1,18 +1,8 @@
 <div id="header" align="center">
 <h1>𝓑𝓮𝓵𝓲𝓮𝓿𝓮, 𝓒𝓸𝓭𝓮, 𝓑𝓮𝓬𝓸𝓶𝓮</h1>
   <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p></div>
-</div>
-
-### Currently working on:
-- [ ] Institutional/Church Management System: <br>
-- ⬜⬜⬜⬜🔳🔳🔳🔳🔳🔳🔳🔳
-- [ ] Invoicing App w/ React<br>
-- ⬜⬜⬜⬜⬜⬜⬜🔳🔳🔳🔳🔳
-- [X] React Form to Google Sheets App<br>
-- ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-
-<!-- Contacts details -->
+  
+  <!-- Contacts details -->
 <div id="badges" align="center">
   
 [![Gmail Badge](https://img.shields.io/badge/-gichaumburu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
@@ -20,6 +10,18 @@
 [![Telegram Badge](https://img.shields.io/badge/-@geeshau-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/geeshau "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@alexgeeshau-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Alexl%20Gichau "Follow on Twitter")
 </div>
+
+</div>
+
+### Currently working on:
+- [ ] Institutional/Church Management System: <br>
+- ⬜⬜⬜🔳🔳
+- [ ] Invoicing App w/ React<br>
+- ⬜⬜🔳🔳🔳
+- [X] React Form to Google Sheets App<br>
+- ⬜⬜⬜⬜⬜
+
+
 <hr>
 
 <div id="randoms" align="center">
