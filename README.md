@@ -5,6 +5,9 @@
   <!-- Contacts details -->
 <div id="badges" align="center">
   
+  # My token:
+  # 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
+  
 [![Gmail Badge](https://img.shields.io/badge/-gichaumburu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Gichau-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Alex-Gichau/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@geeshau-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/geeshau "Contact on Telegram")
