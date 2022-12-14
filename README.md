@@ -5,7 +5,7 @@
   <!-- Contacts details -->
 <div id="badges" align="center">
   
-  <!-- My token: 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 -->
+  <!-- My token: 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 -->
   
 [![Gmail Badge](https://img.shields.io/badge/-gichaumburu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Gichau-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Alex-Gichau/ "Connect on LinkedIn")
