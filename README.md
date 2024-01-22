@@ -15,17 +15,6 @@
 
 </div>
 
-### Currently working on:
-- [ ] Institutional/Church Management System: <br>
-- ⬜⬜⬜🔳🔳
-- [ ] Invoicing App w/ React<br>
-- ⬜⬜🔳🔳🔳
-- [X] React Form to Google Sheets App<br>
-- ⬜⬜⬜⬜⬜
-- [ ] Maternal Care App w/ Kotlin<br>
-- ⬜🔳🔳🔳🔳
-
-
 <hr>
 
 <div id="randoms" align="center">
