@@ -1,3 +1,6 @@
+>
+  <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p></div>
+  
 # 💫 About Me:
 🔭 I’m currently working on e-Commerce Site<br>👯 I’m looking to collaborate on Web3 Projects<br>🤝 I’m looking for help with Web3 & Payment intergration<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about UI/UX Theory<br>⚡ Fun fact : Am getting good with home-made delicacies👌🤩
 
