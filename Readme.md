@@ -5,7 +5,7 @@
 💬 Ask me about UI/UX Theory<br>⚡ Fun fact : Am getting good with home-made delicacies👌🤩
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![Funny Dev Meme](https://imgur.com)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alex-Gichau&limit=5&theme=dark&combine_all_yearly_contributions=true)
