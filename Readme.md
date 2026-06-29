@@ -5,10 +5,10 @@
 💬 Ask me about UI/UX Theory<br>⚡ Fun fact : Am getting good with home-made delicacies👌🤩
 
 ### 😂 Random Dev Humor
-[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Alex-Gichau/github-readme-quotes)
 
 ### 🔝 Top Contributed Repo
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Gichau)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
