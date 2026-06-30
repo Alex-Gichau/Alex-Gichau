@@ -17,6 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Alex-Gichau&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gichau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 👨‍💻 Projects : 
+[![My Project](https://vercel.app)](https://github.com/Alex-Gichau)
+
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mburugichau) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geeshau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alex-Gichau) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/geeshauart) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/geeshau) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Alex-Gichau) 
 
