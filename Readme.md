@@ -4,13 +4,13 @@
 # 💫 About Me:
 💬 Ask me about UI design<br>⚡ Fun fact : Am getting good with home-made delicacies👌🤩
 
-### 😂 Random Dev Humor
+### 😂 Dev Humor
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Alex-Gichau/github-readme-quotes)
 
 ### 🔝 Top Contributed Repo
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Gichau)](https://git.io/streak-stats)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
