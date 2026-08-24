@@ -7,9 +7,6 @@
 ### 😂 Dev Humor
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Alex-Gichau/github-readme-quotes)
 
-### 🔝 Top Contributed Repo
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Gichau)](https://git.io/streak-stats)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
