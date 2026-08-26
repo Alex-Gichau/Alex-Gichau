@@ -1,8 +1,5 @@
 >
   <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you😉</p></div>
-  
-# 💫 About Me:
-💬 Ask me about UI design<br>⚡ Fun fact : Am getting good with home-made delicacies👌🤩
 
 ### 😂 Dev Humor
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Alex-Gichau/github-readme-quotes)
