@@ -1,6 +1,6 @@
 <p>Hello am <b>Alex</b><img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">, nice to meet you 😉</p></div>
 
-  <p align="center">
+  <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Gichau&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
