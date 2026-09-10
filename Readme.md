@@ -2,6 +2,7 @@
 
 ![Meme Description](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
+### 😎 Dear Dev, you're AWESOME!!
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Gichau&theme=tokyonight" alt="GitHub Streak" />
 </p>
